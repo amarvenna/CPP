@@ -30,7 +30,7 @@ int main()
 	cout<<s1.rollNo<<" "<<s1.marks<<endl;
 	cout<<s2.rollNo<<" "<<s2.marks<<endl;
 	cout<<s3.rollNo<<" "<<s3.marks<<endl;
-    cout<<s4.rollNo<<" "<<s4.marks<<endl;
+        cout<<s4.rollNo<<" "<<s4.marks<<endl;
     
 	cout<<"size of struct is:"<<sizeof(s1)<<endl;
 
